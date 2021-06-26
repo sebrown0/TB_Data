@@ -1,0 +1,50 @@
+row_id,test_suite_id,test_suite_name,test_suite_parent_row_id,test_suite_parent_id,test_suite_notes,category_type_name,endl
+149,149,Visual Reports - Form,20,20,Visual Reports - Form,Form,\N
+150,150,Dakar Intelligence - Form,21,21,Dakar Intelligence - Form,Form,\N
+151,151,Employee Reports,150,150,Employee Reports Card - Test all elements have correct title and take user to their child form,Card,\N
+157,157,Employee Reports - Card Group,151,151,Employee Reports - Card Group,Card Group,\N
+158,158,Employee Reports - Employee Basic Details,157,157,Test all parts of the card element,Card Element,\N
+159,159,Employee Reports - Employee Basic Details Header,158,158,Employee Reports - Employee Basic Details Header,Card Header,\N
+160,160,Employee Reports - Employee Basic Details Body,158,158,Employee Reports - Employee Basic Details Body,Card Body,\N
+162,162,Employee Reports - Employee Basic Details (Grid View),157,157,Test all parts of the card element,Card Element,\N
+163,163,Employee Reports - Employee Basic Details (Grid View) - Card Header,162,162,Employee Reports - Employee Basic Details (Grid View) - Card Header,Card Header,\N
+164,164,Employee Reports - Employee Basic Details (Grid View) - Card Body,162,162,Employee Reports - Employee Basic Details (Grid View) - Card Body,Card Body,\N
+166,166,Payroll Reports,150,150,Payroll Reports Card - Test all elements have correct title and take user to their child form,Card,\N
+167,167,Payroll Reports - Card Group,166,166,Payroll Reports - Card Group,Card Group,\N
+168,168,Payroll Reports - Payroll Statistics - Gross/Tax/NI,166,166,Test all parts of the card element,Card Element,\N
+169,169,Payroll Reports - Payroll Statistics - Gross/Tax/NI Header,168,168,Payroll Reports - Payroll Statistics - Gross/Tax/NI Header,Card Header,\N
+170,170,Payroll Reports - Payroll Statistics - Gross/Tax/NI Body,168,168,Payroll Reports - Payroll Statistics - Gross/Tax/NI Body,Card Body,\N
+172,172,Payroll Reports - Payroll Statistics - Extras Breakdown Report,166,166,Test all parts of the card element,Card Element,\N
+173,173,Payroll Statistics - Extras Breakdown Report Header,172,172,Payroll Statistics - Extras Breakdown Report Header,Card Header,\N
+174,174,Payroll Statistics - Extras Breakdown Report Body,172,172,Payroll Statistics - Extras Breakdown Report Body,Card Body,\N
+176,176,Payroll Reports - Payroll - Extras Breakdown by Cost Center,166,166,Test all parts of the card element,Card Element,\N
+177,177,Payroll Reports - Payroll - Extras Breakdown by Cost Center - Card Header,176,176,Payroll Reports - Payroll - Extras Breakdown by Cost Center - Card Header,Card Header,\N
+178,178,Payroll Reports - Payroll - Extras Breakdown by Cost Center - Card Body,176,176,Payroll Reports - Payroll - Extras Breakdown by Cost Center - Card Body,Card Body,\N
+180,180,Payroll Reports - Payroll - Allowances Breakdown,166,166,Test all parts of the card element,Card Element,\N
+181,181,Payroll Reports - Payroll - Allowances Breakdown - Card Header,180,180,Payroll Reports - Payroll - Allowances Breakdown - Card Header,Card Header,\N
+182,182,Payroll Reports - Payroll - Allowances Breakdown - Card Body,180,180,Payroll Reports - Payroll - Allowances Breakdown - Card Body,Card Body,\N
+184,184,Payroll Reports - Payroll Statistics - Bank Cash Payments,166,166,Test all parts of the card element,Card Element,\N
+185,185,Payroll Reports - Payroll Statistics - Bank Cash Payments - Card Header,184,184,Payroll Reports - Payroll Statistics - Bank Cash Payments - Card Header,Card Header,\N
+186,186,Payroll Reports - Payroll Statistics - Bank Cash Payments - Card Body,184,184,Payroll Reports - Payroll Statistics - Bank Cash Payments - Card Body,Card Body,\N
+188,188,Payroll Reports - Payroll Statistics - Unions,166,166,Test all parts of the card element,Card Element,\N
+189,189,Payroll Reports - Payroll Statistics - Unions - Card Header,188,188,Payroll Reports - Payroll Statistics - Unions - Card Header,Card Header,\N
+190,190,Payroll Reports - Payroll Statistics - Unions - Card Body,188,188,Payroll Reports - Payroll Statistics - Unions - Card Body,Card Body,\N
+192,192,Payroll Changes,150,150,Payroll Changes Card - Test all elements have correct title and take user to their child form,Card,\N
+193,193,Payroll Changes - Card Group,192,192,Payroll Changes - Card Group,Card Group,\N
+194,194,2020 Payroll Changes - Card Element,193,193,Test all parts of the card element,Card Element,\N
+195,195,2020 Payroll Changes - Card Header,194,194,2020 Payroll Changes - Card Header,Card Header,\N
+196,196,2020 Payroll Changes - Card Body,194,194,2020 Payroll Changes - Card Body,Card Body,\N
+198,198,2019 Payroll Changes - Card Element,192,192,Test all parts of the card element,Card Element,\N
+199,199,2019 Payroll Changes - Card Element - Card Header,198,198,2019 Payroll Changes - Card Element - Card Header,Card Header,\N
+200,200,2019 Payroll Changes - Card Element - Card Body,198,198,2019 Payroll Changes - Card Element - Card Body,Card Body,\N
+202,202,Absences,150,150,Absencess Card - Test all elements have correct title and take user to their child form,Card,\N
+203,203,Absences - Card Group,202,202,Absences - Card Group,Card Group,\N
+204,204,Absences Consumed - Card Element,203,203,Test all parts of the card element,Card Element,\N
+205,205,Absences Consumed - Card Header,204,204,Absences Consumed - Card Header,Card Header,\N
+206,206,Absences Consumed - Card Body,204,204,Absences Consumed - Card Body,Card Body,\N
+208,208,Absence Entitlements,203,203,Test all parts of the card element,Card Element,\N
+209,209,Absence Entitlements - Card Header,208,208,Absence Entitlements - Card Header,Card Header,\N
+210,210,Absence Entitlements - Card Body,208,208,Absence Entitlements - Card Body,Card Body,\N
+212,212,Absence Entitlements (Grid View),203,203,Test all parts of the card element,Card Element,\N
+213,213,Absence Entitlements (Grid View) - Card Header,212,212,Absence Entitlements (Grid View) - Card Header,Card Header,\N
+214,214,Absence Entitlements (Grid View) - Card Body,212,212,Absence Entitlements (Grid View) - Card Body,Card Body,\N

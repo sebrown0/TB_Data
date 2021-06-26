@@ -1,0 +1,13 @@
+row_id,test_suite_id,test_suite_name,test_suite_parent_row_id,test_suite_parent_id,test_suite_notes,category_type_name,endl
+1244,1241,Main Menu - Payroll - Documents - ElementTestSuite - Form - Employee Document Management,330,32,Check all elements in the element test suite are working correctly.,ElementTestSuite,\N
+10255,10255,Form - Employee Document Management,1244,1241,Test all elements of the form.,Form,\N
+10259,10259,Form - Employee Document Management - Button - Display - Employees,10255,10255,Is the correct item displayed after clicking?,Button - Display,\N
+10270,10270,Form - Employee Document Management - Button - Display - Employees - ElementTestSuite - Modal Form - Employees,10259,10259,Check all elements in the element test suite are working correctly.,ElementTestSuite,\N
+10273,10273,Form - Employee Document Management - Button - Display - Document Loader,10255,10255,Is the correct item displayed after clicking?,Button - Display,\N
+10282,10282,Form - Employee Document Management - Button - Display - Document Loader - ElementTestSuite - Modal Form - Photo & Document Uploader,10273,10273,Check all elements in the element test suite are working correctly.,ElementTestSuite,\N
+10274,10274,Form - Employee Document Management - Container - Document Tree,10255,10255,Test all elements of the container,Container,\N
+10276,10276,Form - Employee Document Management - Button - Function - Home,10255,10255,Is any associated function working correctly?,Button - Function,\N
+10277,10277,Form - Employee Document Management - Button - Function - Refresh,10255,10255,Is any associated function working correctly?,Button - Function,\N
+10279,10279,Form - Employee Document Management - Button - Delete,10255,10255,Is any associated function working correctly?,Button - Function,\N
+10280,10280,Form - Employee Document Management - Button - Download,10255,10255,Is any associated function working correctly?,Button - Function,\N
+10281,10281,Form - Employee Document Management - Container - File List,10255,10255,Test all elements of the container,Container,\N
